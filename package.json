@@ -1,0 +1,17 @@
+{
+  "name": "03-bases-node",
+  "version": "0.0.3",
+  "description": "Es una simple tabla de multiplicar con archivo de texto",
+  "main": "require.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node require --base=3"
+  },
+  "author": "Gonzalo Rueda",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {}
+}
